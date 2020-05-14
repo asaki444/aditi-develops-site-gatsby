@@ -11,15 +11,14 @@ const IndexPage = () => (
   <div className="homepage">
     <SEO title="Jonathan" />
     <p className="intro1">Hi, my name is</p>
-    <h2 className="introname">Evan Nolan.</h2>
+    <h2 className="introname">Aditi.</h2>
+   <h3>a community focused software engineer<br />in New York City!</h3>
     
-    <h3>I Build things for the<br /> web.</h3>
-    
-    <p className="para">I'm a software engineer based in India, <br />
-    Just because we check the guns.</p>
+    {/* <p className="para"><br />
+ </p> */}
     <div className="btnrow">
-    <button className="button"><a className="btnlink" href="mailto:sumanth77snehi@gmail.com">Get In Touch</a></button>
-    <button className="button"><a className="btnlink" href="https://drive.google.com/open?id=1G8zw95uXzs2PJjURlfpuAXNWiY66Gy_b">&nbsp;Resume&nbsp;</a></button>
+    <button className="button"><a className="btnlink" href="mailto:aditidevelops@gmail.com">Get In Touch</a></button>
+    <button className="button"><a className="btnlink" href="https://drive.google.com/file/d/1TafkGyEq01zJXOlJNXotM5GqlhPS0_Md/view">&nbsp;Resume&nbsp;</a></button>
     </div>
     {/* <div style={{ maxWidth: `100px`, marginB `1.45rem` }}>
       <Image />
