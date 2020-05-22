@@ -1,0 +1,45 @@
+.link{
+    color: gray;
+}
+
+.header{
+    padding: 1rem 0 0;
+    background: #52ca52;
+}
+
+.title{
+    color: #000;
+    font-size: 3rem;
+    text-decoration: none;
+}
+
+.nav_list{
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+}
+
+.nav_item{
+    margin-right: 1rem;
+    font-size: .9rem;
+    color:gray; 
+
+}
+
+.nav_item:hover {
+    color: #666;
+}
+
+.active-nav-item{
+    color: #333;
+}
+
+.div-container{
+        margin: 0 auto;
+        max-width: 960px;
+        padding: 1.45rem 1.0875rem;
+}
+
+.heading{
+    margin: 0;
+}
