@@ -1,6 +1,6 @@
 import React from 'React';
 import Layout from '../components/Layout';
-import Blog from '.../templates/blog.js'
+import Blog from '../templates/blog.js'
 
 const Portfolio = () => {
    return (
