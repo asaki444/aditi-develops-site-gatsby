@@ -28,14 +28,14 @@ const Header = ({ siteTitle }) => (
         </Link>
         </li>
         <li>
-        <Link className={headerStyles.nav_item} 
+        <Link to="/portfolio" className={headerStyles.nav_item} 
                         activeClassName={headerStyles.activeNavItem}>
                              Portfolio
                         </Link>
   
         </li>
         <li>
-        <Link className={headerStyles.nav_item} 
+        <Link to="/contact" className={headerStyles.nav_item} 
                         activeClassName={headerStyles.activeNavItem}>
                            Contact
                         </Link>
